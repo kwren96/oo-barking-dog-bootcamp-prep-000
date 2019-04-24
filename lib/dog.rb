@@ -1,2 +1,5 @@
 # Your code goes here!
-def 
+class Dog
+  def .name=
+end
+end
